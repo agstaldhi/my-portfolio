@@ -1,0 +1,10 @@
+{
+  "doki.sticker.path": "G:\\\\Dokumen\\\\Gif\\\\XOsX.gif",
+  "doki.background.path": "G:\\\\Images\\\\Gambar\\\\Wallpaper\\\\Girl\\\\7253405874155277574.png",
+  "doki.sticker.css": "z-index:100;background-position:100% 100%",
+  "doki.background.anchor": "center",
+  "doki.wallpaper.path": "G:\\\\Images\\\\Gambar\\\\Wallpaper\\\\VS Code\\\\Img\\\\2.jpg",
+  "doki.statusbar.name": "【﻿Ａｒｉｔａ】",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode"
+}
